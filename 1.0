@@ -1,0 +1,27 @@
+
+
+// one class needs to have a main() method
+public class HelloWorld
+{
+  // arguments are passed using the text field below this editor
+  public static void main(String[] args)
+  {
+    double numero;
+    numero = 214.7;
+      
+    //int, float, double -> numero
+    //char, string
+      
+    char letra = 'A';
+    boolean luz = false;
+    
+    int paginas[] = new int[6];
+    paginas[0] = 20;
+    paginas[5] = 30;
+    
+    String cadena = "Holaaaaaaaaa";
+    
+    
+    System.out.print(cadena);
+  }
+}
